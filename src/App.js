@@ -6,7 +6,7 @@ function drawCircle(
   backgroundColorSmallCircles = "transparent"
 ) {
   // test comment
-  // div circle mit svg ersetzen
+  // todo: div circle mit svg ersetzen
   return (
     <div className="circle-parent">
       <div
